@@ -1,4 +1,4 @@
-<script>
+<?php /* <script>
 	jQuery(function(){
 		jQuery('#camera_wrap_<?php echo $module; ?>').camera({
 			navigation: true,
@@ -43,4 +43,116 @@
 	</div>
 	</div>
 	<div class="clear"></div>
+</div> */ ?>
+
+<style type="text/css">
+	
+	.header_modules {
+		 margin-top: -50px;
+
+	}
+</style>
+
+<div id="parallax_0" class="parallax">
+  
+			<div data-source-url="/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
+			<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div style="position: relative;
+  width: 400px;
+  background-color: rgba(255,255,255,0.85);
+  padding: 20px;">
+
+<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
+
+</div>				</div>
+			</div>
+			</div>
+		</div>
+
+	
+	  
+</div>
+
+
+
+
+
+<div id="parallax_1" class="parallax">
+  
+			<div data-source-url="/image/catalog/artetextil/slide-3.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/catalog/artetextil/slide-3.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
+			<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div style="position: relative;
+  width: 400px;
+  background-color: rgba(255,255,255,0.85);
+  padding: 20px;">
+
+<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
+
+</div>				</div>
+			</div>
+			</div>
+		</div>
+
+	
+	  
+</div>
+
+<div id="parallax_2" class="parallax">
+  
+			<div data-source-url="/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
+			<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div style="position: relative;
+  width: 400px;
+  background-color: rgba(255,255,255,0.85);
+  padding: 20px;">
+
+<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
+
+</div>				</div>
+			</div>
+			</div>
+		</div>
+
+	
+	  
+</div>
+
+<div id="parallax_3" class="parallax">
+  
+			<div data-source-url="/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
+			<div class="container">
+			<div class="row">
+				<div class="col-sm-12">
+					<div style="position: relative;
+  width: 400px;
+  background-color: rgba(255,255,255,0.85);
+  padding: 20px;">
+
+<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
+
+</div>				</div>
+			</div>
+			</div>
+		</div>
+
+	
+	  
 </div>

@@ -10,6 +10,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title><?php echo $title; ?></title>
 <base href="<?php echo $base; ?>" />
+<link href='//fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900' rel='stylesheet' type='text/css'>
 <?php if ($description) { ?>
 <meta name="description" content="<?php echo $description; ?>" />
 <?php } ?>
@@ -156,6 +157,12 @@
 
 <header>
 	<div class="container">
+		<div style="margin: 0 0 16px; float: left; width: 500px; text-align: left;">
+			<img src="/image/icons/facebook-square.png" width="50"> 
+			<img src="/image/icons/instagram.png" width="50"> 
+			<img src="/image/icons/pinterest.png" width="50"> 
+			<img src="/image/icons/twitter.png" width="50"> 
+		</div>
 		<div id="logo">
 			<?php if ($logo) { ?>
 			<a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>

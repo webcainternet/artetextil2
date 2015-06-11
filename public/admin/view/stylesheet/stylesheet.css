@@ -47,7 +47,7 @@ h1, h2, h3, h4, h5, h6, p {
 }
 .breadcrumb li + li:before {
 	content: "/";
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	color: #BBBBBB;
 	padding: 0 5px;	
 }
@@ -228,7 +228,7 @@ span.hidden-xs, span.hidden-sm, span.hidden-md, span.hidden-lg {
 #menu li li a:before {
 	content: "\f101";
 	font-size: 14px;
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	margin-left: 10px;
 	margin-right: 10px;
 	transition: margin ease 0.5s;	
@@ -266,13 +266,13 @@ span.hidden-xs, span.hidden-sm, span.hidden-md, span.hidden-lg {
 	visibility: visible;
 }
 #menu li li a.parent:after, #column-left.active #menu > li a.parent:after {
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	content: "\f105";
 	float: right;
 	margin-right: 8px;
 }
 #menu li li.open > a.parent:after, #column-left.active #menu > li.open > a.parent:after {
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	content: "\f107";
 	float: right;
 	margin-right: 8px;
@@ -374,7 +374,7 @@ div.required .control-label:not(span):before, td.required:before {
 	font-weight: bold;
 }
 .table thead td span[data-toggle="tooltip"]:after, label.control-label span:after {
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	color: #1E91CF;
 	content: "\f059";
 	margin-left: 4px;
@@ -453,12 +453,12 @@ input[type="checkbox"]:checked::after, .checkbox input[type="checkbox"]:checked:
 }
 .table a.asc:after {
 	content: " \f107";
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 }
 .table a.desc:after {
 	content: " \f106";
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 	font-size: 14px;
 }
 

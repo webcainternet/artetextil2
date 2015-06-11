@@ -511,11 +511,11 @@ footer h5 {
 }
 .carousel-control .icon-prev:before {
 	content: '\f053';
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 }
 .carousel-control .icon-next:before {
 	content: '\f054';
-	font-family: FontAwesome;
+	font-family: 'Raleway', sans-serif;
 }
 /* product list */
 .product-thumb {
