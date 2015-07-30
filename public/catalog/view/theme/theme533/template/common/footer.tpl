@@ -1,4 +1,17 @@
 <footer>
+
+
+
+
+<a href="https://www.google.com.br/maps/place/R.+Iperoig,+409+-+Perdizes,+S%C3%A3o+Paulo+-+SP/@-23.5365931,-46.6767481,17z/data=!3m1!4b1!4m2!3m1!1s0x94ce57f0e0b9d7ff:0x529331c18f7c1bea?hl=en" target="_blank">
+	<div style="background: url('/image/mapa.png'); height: 400px; background-size: cover; background-position-y: -100px;">
+	&nbsp;
+	</div>
+</a>
+
+
+
+
 	<?php if ($maintenance == 0){ ?>
 		<?php echo $footer_top; ?>
 	<?php } ?>
