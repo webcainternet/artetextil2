@@ -2,7 +2,7 @@
 	<?php if ($maintenance == 0){ ?>
 		<?php echo $footer_top; ?>
 	<?php } ?>
-  <div class="container">
+  <div class="container" style="padding-top: 60px;">
 	<div class="row">
 		<div class="col-sm-2">
 			<?php if ($informations) { ?>
