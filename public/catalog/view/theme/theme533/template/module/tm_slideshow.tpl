@@ -1,4 +1,4 @@
-<?php /* <script>
+<script>
 	jQuery(function(){
 		jQuery('#camera_wrap_<?php echo $module; ?>').camera({
 			navigation: true,
@@ -43,7 +43,9 @@
 	</div>
 	</div>
 	<div class="clear"></div>
-</div> */ ?>
+</div>
+
+<?php /*
 
 <style type="text/css">
 	
@@ -60,13 +62,14 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div style="position: relative;
-  width: 400px;
+  width: 515px;
+  margin-left: 650px;
   background-color: rgba(255,255,255,0.85);
   padding: 20px;">
 
-<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
-<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
-<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<h1 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif; font-size: 78px;">Tecidos</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif; font-size: 48px;">Criativos</h2>
+<p style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">fewfew</p>
 <a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
 
 </div>				</div>
@@ -80,7 +83,7 @@
 
 
 
-
+<div style="margin: auto; width: 1177px; margin-top: 30px; margin-bottom:50px;"><img src="/image/produtos.png"></div>
 
 <div id="parallax_1" class="parallax">
   
@@ -89,13 +92,13 @@
 			<div class="row">
 				<div class="col-sm-12">
 					<div style="position: relative;
-  width: 400px;
+  width: 515px;
   background-color: rgba(255,255,255,0.85);
   padding: 20px;">
 
-<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
-<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
-<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<h1 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif; font-size: ">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">&nbsp;</p>
 <a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
 
 </div>				</div>
@@ -106,21 +109,27 @@
 	
 	  
 </div>
+
+
+
+<div style="margin: auto; width: 1177px; margin-top: 30px; margin-bottom:50px;"><img src="/image/produtos.png"></div>
+
 
 <div id="parallax_2" class="parallax">
   
-			<div data-source-url="/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
+			<div data-source-url="/image/catalog/artetextil/bolsas-0001.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/catalog/artetextil/bolsas-0001.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
 			<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
 					<div style="position: relative;
-  width: 400px;
+  width: 515px;
+  margin-left: 350px;
   background-color: rgba(255,255,255,0.85);
   padding: 20px;">
 
-<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
-<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
-<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<h1 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif; font-size: ">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">&nbsp;</p>
 <a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
 
 </div>				</div>
@@ -131,21 +140,27 @@
 	
 	  
 </div>
+
+
+
+
+<div style="margin: auto; width: 1177px; margin-top: 30px; margin-bottom:50px;"><img src="/image/produtos.png"></div>
+
 
 <div id="parallax_3" class="parallax">
   
-			<div data-source-url="/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/cache/catalog/artetextil/slider-tecido-2050x1450.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
+			<div data-source-url="/image/catalog/artetextil/slider4.jpg" class="parallax-1" style="width: 1347px; margin-left: -674px; left: 50%; background-image: url(/image/catalog/artetextil/slider4.jpg); background-attachment: fixed; background-position: 50% 88.8425443169969%;">
 			<div class="container">
 			<div class="row">
 				<div class="col-sm-12">
 					<div style="position: relative;
-  width: 400px;
+  width: 515px;
   background-color: rgba(255,255,255,0.85);
   padding: 20px;">
 
-<h1 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h1>
-<h2 style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</h2>
-<p style="visibility: inherit; opacity: 1; left: auto;">&nbsp;</p>
+<h1 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif; font-size: ">&nbsp;</h1>
+<h2 style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">&nbsp;</h2>
+<p style="visibility: inherit; opacity: 1; left: auto; font-family: 'Raleway', sans-serif, serif;">&nbsp;</p>
 <a href="\\\&quot;index.php?route=product/special\\\&quot;" style="visibility: inherit; opacity: 1; top: auto;">Ver coleção</a>
 
 </div>				</div>
@@ -156,3 +171,5 @@
 	
 	  
 </div>
+
+*/ ?>
