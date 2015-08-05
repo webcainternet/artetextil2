@@ -162,7 +162,12 @@
 			<img src="/image/icons/instagram.png" width="50"> 
 			<img src="/image/icons/pinterest.png" width="50"> 
 			<img src="/image/icons/twitter.png" width="50"> 
+			<div style="padding: 15px; border: dotted 3px #ED1B24; margin-top: 20px; color: #ED1B24;font-size: 18px;width: 300px;">
+				Oferta:<br>
+				<span style="font-size: 20px; font-weight: bold;">Frete grátis</span> para compras <br>acima de <span style="font-size: 20px; font-weight: bold;">R$ 200,00</span>
+			</div>
 		</div>
+
 		<div id="logo">
 			<?php if ($logo) { ?>
 			<a href="<?php echo $home; ?>"><img src="<?php echo $logo; ?>" title="<?php echo $name; ?>" alt="<?php echo $name; ?>" class="img-responsive" /></a>
